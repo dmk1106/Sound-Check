@@ -1,0 +1,98 @@
+MAJOR NEEDED IMPROVEMENTS:
+    ADD CONTROLLER SUPPORT
+
+GAMEPLAY & STORY LINE: 
+  Start the game by getting kicked out of house
+  Move into studio appartment
+  Make a living accepting part time gigs and earning money
+  Build fan base progressing to bigger and harder gigs
+
+ GAME LOOPS:
+     TODO:
+      Give players meaningful reasons to return to the studio after gigs.
+      Allow players to store, organize, and customize their equipment.
+    MAYBE: 
+      Display trophies, posters, CDs, and other collectibles earned through gigs.
+      Make sure practice area near by the studio (maybe the place where you make sure youre synced in game)
+      Make studio upgrades unlock useful features. (maybe)
+  Completed:
+      Visit the studio to manage equipment and select gigs.
+      Choose the instruments needed for the next performance.
+      Physically load equipment into the truck.
+      Drive to the venue.
+      Unload equipment and set up the stage.
+      Play the rhythm game.
+      Earn money and fans based on performance.
+      Return to the studio to prepare for the next gig.
+      Purchase equipment, cosmetics, and studio upgrades.
+
+MULTIPLAYER (Finish Single Player Game loop first)
+  TODO:
+      Make Multi-Player via Steam: https://store.godotengine.org/asset/viitox/steam-or-local-multiplayer-lobby-template/
+      Need to make 3 More playable characters
+      Possibly could make each player get a different number of fans via how well they do but, they keep same money to encourage competetion among friends
+      Synchronize player movement, vehicles, instruments, and physical interactions.
+      Update Truck to hold all 4 players (or maybe force them to stay in back with gear bc funny?)
+      Sync all gigs and money for all players but they have different number of fans
+      Whoever has most fans gets to choose the gig
+      Show each player's performance score, combo, and fan gains.
+      Display individual career statistics.
+      Allow each player to choose an instrument and play different parts of a song.
+      Certian gigs require certain insturments 
+
+CUSTOMIZATION
+  TODO:
+  ADD SOME SORT OF GAMBLING SYSTEM TO OBTAIN SKINS
+    Maybe you get skins and you play black jack or smt to upgrade/downgrade skins respectively
+    Studio is in a tall apartment and each player is on their own level where you customize indivudually
+    Show off your fav instrument, song
+    Character Customization:
+      Hats, Clothes, Instrument skins
+    Studio Customization:
+      Decorations, CD of your fav songs
+      Maybe for multiplayer each player has their own sutdio
+    NPC Customization
+      Make different kinds of NPC's
+    Buildings. Update to the city buildings
+      Something other than the plain word on the front of the buildings
+
+GIG & FAN PROGRESSION
+  TODO:
+    More gigs
+    Jobs that require specific instruments
+  MAYBE:
+    Multi-song set lists
+    Something silly with the audiance when missing a note or like caht bubbles if youre doing good/bad
+
+CITY AND BUILDING IMPROVEMENTS:
+  TODO:
+    Improve city buildings and environmental detail
+    Replace plain text labels on building fronts with convincing signs, storefronts, and architecture
+    Add more variety in building shapes, colors, heights, and materials
+    Improve neon signs and nighttime lighting
+    Add more interesting storefronts and recognizable landmarks
+    Continue improving the organic layout of roads, alleys, and city blocks
+    Add more detail to the studio neighborhood and surrounding streets
+    Make locked districts visually interesting and worth exploring
+MUSIC AND RHYTHM GAMEPLAY
+  TODO:
+    New songs and corespodning note charts
+    Adjust charts to match rhythm, tempo, and intensity of individual songs
+    COULD MAKE IT SO YOU CHOOSE A GENERE AND PLAY THOSE KINDS OF SONGS?
+    Add personal bests/ team bests to songs
+NPC, TRAFFIC & CITY LIFE
+  TODO:
+    Improve NPC car pathing
+    they back up if you/ another npc get close
+    Make vehicle headlights and traffic behavior fit the nighttime atmosphere
+    Have NPCs react to the player's growing popularity
+QOL & OTHER IMPROVEMENTS
+  TODO: 
+    Improve:
+      overall visual quality
+      rain
+      city
+      traffic
+      audio (rain audio)
+    
+
